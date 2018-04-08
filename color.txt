@@ -1,11 +1,11 @@
 7 color
 
-red
-green
-blue
-yellow
-purple
-orange
+1.red
+2.green
+3.blue
+4.yellow
+5.purple
+6.orange
 all above colors are good and lucky
 please don't remove colors
 newline1
