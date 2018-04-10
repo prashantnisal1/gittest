@@ -1,4 +1,4 @@
-7 color
+# 7 color #
 
 red
 green
